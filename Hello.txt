@@ -1,3 +1,7 @@
 ciao
 
+<<<<<<< HEAD
 bye bye 
+=======
+ciao
+>>>>>>> 97f507dacb0b36ecd558fddefcd635c59c10f87f
